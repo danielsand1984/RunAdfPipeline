@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "RunAdfPipeline": {
+      "commandName": "Project"
+    }
+  }
+}
